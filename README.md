@@ -23,8 +23,8 @@ This is evolving project for later `REST` api server build.
 - [ ] 3 layer architecture
 
 ### integration
-- [ ] start project
-- [ ] install typescript in local project 
+- [X] start project
+- [ ] install `typescript` in local project 
 
 ### TO-DO
 - [ ] update what we needs typescript versions
