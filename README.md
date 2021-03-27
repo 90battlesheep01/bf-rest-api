@@ -24,7 +24,9 @@ This is evolving project for later `REST` api server build.
 
 ### integration
 - [X] start project
-- [ ] install `typescript` in local project 
+- [X] install `typescript` in local project 
+- [X] start new project with `typescript` && `gts(google typescript style)`
+
 
 ### TO-DO
 - [ ] update what we needs typescript versions
