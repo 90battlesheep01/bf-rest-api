@@ -18,13 +18,15 @@ This is evolving project for later `REST` api server build.
 
 ## roadmap
 ### knowledge
-- [ ] what is `npx`?
+- [X] what is `npx`?
 - [ ] understanding whole project 
 - [ ] 3 layer architecture
 
 ### integration
 - [X] start project
-- [ ] install `typescript` in local project 
+- [X] install `typescript` in local project 
+- [X] start new project with `typescript` && `gts(google typescript style)`
+
 
 ### TO-DO
 - [ ] update what we needs typescript versions
