@@ -19,8 +19,9 @@ This is evolving project for later `REST` api server build.
 ## roadmap
 ### knowledge
 - [X] what is `npx`? ([solved](https://javascript.plainenglish.io/yes-its-npx-not-npm-the-difference-explained-58cbb202ec33))
-- [ ] understanding whole project 
+- [X] understanding whole project structure
 - [ ] 3 layer architecture
+- [X] what is editorconfig.json? ([solved](https://editorconfig.org/))
 
 ### integration
 - [X] start project
@@ -29,6 +30,7 @@ This is evolving project for later `REST` api server build.
 - [X] project structure
 - [X] install `express` for server framework
 - [X] install nodemon for develop && test
+- [X] add editor config file
 - [ ] process.env with dotenv
 - [ ] build starter app 
 
