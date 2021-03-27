@@ -1,0 +1,19 @@
+{
+  "name": "bf-rest-api",
+  "version": "1.0.0",
+  "description": "bulletproof node.js rest api server",
+  "main": "src/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/90battlesheep01/bf-rest-api.git"
+  },
+  "author": "Youngwoo Son",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/90battlesheep01/bf-rest-api/issues"
+  },
+  "homepage": "https://github.com/90battlesheep01/bf-rest-api#readme"
+}
