@@ -18,7 +18,7 @@ This is evolving project for later `REST` api server build.
 
 ## roadmap
 ### knowledge
-- [ ] what is `npx`?
+- [X] what is `npx`? ([solved](https://javascript.plainenglish.io/yes-its-npx-not-npm-the-difference-explained-58cbb202ec33))
 - [ ] understanding whole project 
 - [ ] 3 layer architecture
 
