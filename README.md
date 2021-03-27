@@ -28,7 +28,7 @@ This is evolving project for later `REST` api server build.
 - [X] start new project with `typescript` && `gts(google typescript style)`
 - [X] project structure
 - [X] install `express` for server framework
-- [ ] install nodemon for develop && test
+- [X] install nodemon for develop && test
 - [ ] process.env with dotenv
 - [ ] build starter app 
 
