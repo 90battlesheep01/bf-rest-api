@@ -22,6 +22,7 @@ This is evolving project for later `REST` api server build.
 - [X] understanding whole project structure
 - [ ] 3 layer architecture
 - [X] what is editorconfig.json? ([solved](https://editorconfig.org/))
+- [ ] decorator pattern 
 
 ### integration
 - [X] start project
@@ -31,7 +32,8 @@ This is evolving project for later `REST` api server build.
 - [X] install `express` for server framework
 - [X] install nodemon for develop && test
 - [X] add editor config file
-- [ ] process.env with dotenv
+- [X] process.env with dotenv
+- [X] add log loader
 - [ ] build starter app 
 
 

@@ -7,11 +7,18 @@ const env_found = dotenv.config();
 
 if (env_found.error) {
   // this error should crash whole process
-  throw new Error("can't find .env file!");
+  throw new Error("###can't find .env file!###");
 }
 
 // environment variables
-export const env = {
+export default {
   // app-server listening port
   // api configs
+
+  /**
+   * Used by winston logger
+   */
+  logs: {
+    level: process.env.LOG_LEVEL || 'silly',
+  },
 };

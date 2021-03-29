@@ -2,6 +2,10 @@
 console.log('start server');
 
 // import configuration for app-server
-import {env} from '@config';
+import config from 'src/config';
 
-console.log(env);
+import Logger from 'src/loaders/logger';
+
+Logger.info({
+  message: 'Hello distributed log files!',
+});
