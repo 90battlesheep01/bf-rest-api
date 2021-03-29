@@ -9,10 +9,8 @@
     ],
     "baseUrl": ".",
     "paths": {
-      "@config*": ["src/config"],
-      "@config/*": ["src/config/*"]
+      "src/*": ["src/*"]
     }
-
   },
   "include": [
     "src/**/*.ts",
