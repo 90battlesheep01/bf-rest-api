@@ -10,6 +10,8 @@
     "clean": "gts clean",
     "compile": "tsc",
     "fix": "gts fix",
+    "prettier:check": "prettier --check .",
+    "prettier:write": "prettier --write .",
     "prepare": "npm.cmd run compile",
     "pretest": "npm.cmd run compile",
     "posttest": "npm.cmd run lint"
